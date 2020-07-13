@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Grenze Gotisch', cursive;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  background-color: Moccasin;
+}
+
+
+p {
+  padding: 40px 0;
+}
+
+span {
+  color: red;
+}
